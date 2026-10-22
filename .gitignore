@@ -5,3 +5,6 @@ npm-debug.log*
 
 # Personal, machine-local Claude settings (project-scoped settings ARE committed)
 .claude/settings.local.json
+
+# IDE files
+.idea/
